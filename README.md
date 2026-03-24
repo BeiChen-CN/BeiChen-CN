@@ -2,12 +2,12 @@
 
 # BeiChen
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&center=true&vCenter=true&width=760&lines=Independent+Developer+%7C+Student;Learning+Frontend%2C+LLM+and+Agent;Building+clean+UI+and+useful+tools" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&center=true&vCenter=true&width=760&lines=独立开发者+%7C+学生;持续学习前端+LLM+与+Agent;热爱干净的界面与有用的工具" alt="Typing SVG" />
 
 <p>
-  <img src="https://img.shields.io/badge/Frontend-React%20%26%20TypeScript-111827?style=for-the-badge&labelColor=2563EB&color=0F172A" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Focus-LLM%20%26%20Agent-111827?style=for-the-badge&labelColor=7C3AED&color=0F172A" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Learning%20in%20Public-111827?style=for-the-badge&labelColor=10B981&color=0F172A" alt="Status" />
+  <img src="https://img.shields.io/badge/前端-React%20%26%20TypeScript-111827?style=for-the-badge&labelColor=2563EB&color=0F172A" alt="前端" />
+  <img src="https://img.shields.io/badge/方向-LLM%20%26%20Agent-111827?style=for-the-badge&labelColor=7C3AED&color=0F172A" alt="方向" />
+  <img src="https://img.shields.io/badge/状态-持续学习中-111827?style=for-the-badge&labelColor=10B981&color=0F172A" alt="状态" />
 </p>
 
 <p>
@@ -20,7 +20,7 @@
 
 ---
 
-## About Me
+## 关于我
 
 ```text
 独立开发者 / 学生
@@ -29,25 +29,25 @@
 正在一边学习，一边把想法做成真实项目
 ```
 
-## Core Tech Stack
+## 核心技术栈
 
 <table>
   <tr>
     <td valign="top" width="25%">
 
-### Frontend
+### 前端
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
 
   </td>
     <td valign="top" width="25%">
 
-### Backend
+### 后端
 <img src="https://skillicons.dev/icons?i=nodejs,python" />
 
   </td>
     <td valign="top" width="25%">
 
-### Tools
+### 工具链
 <img src="https://skillicons.dev/icons?i=git,docker,linux" />
 
   </td>
@@ -62,44 +62,44 @@
   </tr>
 </table>
 
-## Now
+## 当前状态
 
-- Learning **TypeScript** and **React** in depth
-- Exploring practical workflows around **LLM** and **Agent**
-- Building and polishing personal projects in public
+- 正在系统学习 **TypeScript** 和 **React**
+- 持续探索 **LLM** 与 **Agent** 的实际工作流
+- 一边做项目，一边打磨自己的 GitHub 主页
 
-## Featured Project
+## 代表项目
 
 ### weflow
-> A project focused on smoother workflow experience and cleaner interaction design.
+> 一个关注工作流体验与交互设计细节的项目。
 
-- Practicing product thinking through real project iteration
-- Emphasizing usability, interface polish, and development efficiency
-- Serving as a sandbox for frontend and AI-driven ideas
+- 通过真实项目迭代练习产品思维
+- 更关注可用性、界面细节与开发效率
+- 也是我实践前端与 AI 想法的实验场
 
-## GitHub Stats
+## GitHub 数据统计
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BeiChen-CN&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeiChen-CN&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BeiChen-CN&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub 统计" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeiChen-CN&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="常用语言" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=BeiChen-CN&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=BeiChen-CN&theme=tokyonight&hide_border=true" alt="GitHub 连击" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BeiChen-CN&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BeiChen-CN&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=6" alt="GitHub 成就" />
 </div>
 
-## Recommendation
+## 想做的事
 
-- If you like frontend, AI applications, or developer tools, welcome to follow my work
-- I prefer building things that are simple, useful, and visually clean
-- This profile will keep evolving along with my projects
+- 做简单、好用、界面干净的产品
+- 持续记录前端与 AI 应用方向的成长过程
+- 把个人项目慢慢打磨成真正有价值的作品
 
 ---
 
 <div align="center">
-  <sub>Thanks for stopping by.</sub>
+  <sub>感谢访问我的主页。</sub>
 </div>
