@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:2563EB,50:7C3AED,100:0F172A&section=header&text=BeiChen&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%26%20AI%20Builder&descAlignY=64&descSize=18" alt="主视觉头图" />
 
-<img src="https://github.com/BeiChen-CN.png" width="108" alt="BeiChen Avatar" style="border-radius:50%;" />
 
 # 姜北尘 / BeiChen
 
 ### 独立开发者 · 学生 · 在前端与 AI 的交汇处持续生长
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;pause=1400&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=Frontend+%26+AI+Builder;Learning+in+public;Turning+ideas+into+products" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/身份-独立开发者-0F172A?style=for-the-badge&labelColor=2563EB" alt="身份" />
@@ -35,6 +35,7 @@
 ## 核心技术栈
 
 ### 前端
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -44,6 +45,7 @@
 </p>
 
 ### 后端与工具
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -53,6 +55,7 @@
 </p>
 
 ### AI 方向
+
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
@@ -74,14 +77,6 @@
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=BeiChen-CN&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub 统计" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeiChen-CN&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="常用语言" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=BeiChen-CN&theme=tokyonight&hide_border=true" alt="GitHub 连击" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BeiChen-CN&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=3&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="GitHub 成就" />
 </div>
 
 <div align="center">· · ·</div>
