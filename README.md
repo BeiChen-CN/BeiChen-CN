@@ -1,10 +1,12 @@
 <div align="center">
 
-# 北辰 / BeiChen
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:2563EB,50:7C3AED,100:0F172A&section=header&text=BeiChen&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%26%20AI%20Builder&descAlignY=64&descSize=18" alt="主视觉头图" />
 
-### 独立开发者 · 学生 · 正在构建前端与 AI 的交汇点
+<img src="https://github.com/BeiChen-CN.png" width="108" alt="BeiChen Avatar" style="border-radius:50%;" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&center=true&vCenter=true&width=820&lines=专注于+TypeScript+%2F+React+%2F+LLM+%2F+Agent;喜欢把想法做成真实可用的产品;热爱干净的界面、流畅的体验和持续迭代" alt="Typing SVG" />
+# 姜北尘 / BeiChen
+
+### 独立开发者 · 学生 · 在前端与 AI 的交汇处持续生长
 
 <p>
   <img src="https://img.shields.io/badge/身份-独立开发者-0F172A?style=for-the-badge&labelColor=2563EB" alt="身份" />
@@ -24,12 +26,11 @@
 
 ## 关于我
 
-```text
-独立开发者 / 学生
-关注前端、LLM 与 Agent
-喜欢开源、游戏和 UI 设计
-正在一边学习，一边把想法做成真实项目
-```
+> 独立开发者，也是学生。
+> 正在持续学习 **TypeScript、React、LLM 与 Agent**，也喜欢把抽象的想法一点点做成真实可用的产品。
+> 偏爱 **开源、游戏、UI 设计**，在代码之外，也在练习更好的表达、审美与产品感。
+
+<div align="center">· · ·</div>
 
 ## 核心技术栈
 
@@ -58,11 +59,15 @@
   <img src="https://img.shields.io/badge/Agent-111827?style=for-the-badge&logoColor=white" alt="Agent" />
 </p>
 
+<div align="center">· · ·</div>
+
 ## 当前状态
 
-- 正在系统学习 **TypeScript** 和 **React**
-- 持续探索 **LLM** 与 **Agent** 的实际工作流
-- 一边做项目，一边打磨自己的 GitHub 主页
+> 这段时间，我在更系统地学习 **TypeScript** 和 **React**，
+> 也在持续理解 **LLM** 与 **Agent** 如何真正进入实际工作流。
+> 一边学习，一边做项目，也一边把自己的 GitHub 主页慢慢打磨成更像“自己”的样子。
+
+<div align="center">· · ·</div>
 
 ## GitHub 数据统计
 
@@ -76,14 +81,16 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BeiChen-CN&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=6" alt="GitHub 成就" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BeiChen-CN&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=3&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="GitHub 成就" />
 </div>
+
+<div align="center">· · ·</div>
 
 ## 想做的事
 
-- 做简单、好用、界面干净的产品
-- 持续记录前端与 AI 应用方向的成长过程
-- 把个人项目慢慢打磨成真正有价值的作品
+> 我想持续做一些 **简单、好用、界面干净** 的产品，
+> 把前端能力、设计表达和 AI 应用实践慢慢结合起来。
+> 也希望未来的每一个项目，不只是“做出来”，而是真的 **能被使用、能产生价值、能代表自己**。
 
 ---
 
